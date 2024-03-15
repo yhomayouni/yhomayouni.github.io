@@ -1,7 +1,7 @@
 # Setup
 title: Yasaman Homayouni
 description: Eberly Postdoctoral Fellow, Penn State University
-url: https://vszhub.github.io
+url: https://yhomayouni.github.io
 avatar: /yhomayouni_cropped.jpg
 paginate: 5
 permalink: pretty
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Yasaman Homayouni
+  url: https://yhomayouni.github.io
+  email: ybh5251@psu.edu
